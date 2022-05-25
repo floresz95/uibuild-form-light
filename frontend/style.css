@@ -39,6 +39,7 @@ h1 {
   font-weight: 400;
   font-size: 48px;
   color: #467745;
+  text-transform: capitalize;
 }
 
 #topic {
@@ -103,6 +104,7 @@ button {
   font-weight: 400;
   font-size: 21px;
   letter-spacing: 0.2em;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 520px) {
