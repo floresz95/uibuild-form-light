@@ -84,6 +84,10 @@ textarea {
   background-color: #ffffff;
 }
 
+a {
+  text-decoration: underline;
+}
+
 p {
   display: inline;
   font-family: 'Montserrat', sans-serif;
